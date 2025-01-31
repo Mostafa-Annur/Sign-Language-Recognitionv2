@@ -1,0 +1,1 @@
+A project for developing a universal system for communication among deaf and mute people with normal people who don’t know sign language. The Project is not fully uploaded. As some files are more than 100MB I am getting error in pushing. However, I will solve the problem and update the repository soon.
